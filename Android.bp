@@ -77,6 +77,8 @@ android_library {
         "lottie",
         "WifiTrackerLib",
         "SettingsLibActivityEmbedding",
+        "VendorSupport-preference",
+        "faceunlock_framework",
     ],
 
     libs: [
